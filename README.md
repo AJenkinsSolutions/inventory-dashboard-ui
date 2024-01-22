@@ -1,5 +1,21 @@
-# InventoryDashboardUi
+# Angular Inventory Management UI Component
 
+This repository contains an Angular component designed for efficient and user-friendly inventory management. It features a modern, responsive design and is built to integrate with RESTful services for real-time inventory tracking and operations.
+
+## Key Features:
+- Interactive UI for listing, adding, editing, and deleting inventory items.
+- Real-time data synchronization with backend services.
+- Advanced filtering, sorting, and search capabilities.
+- Responsive design for optimal viewing on various devices and screen sizes.
+- Customizable styles and layouts to fit your application's branding.
+
+## Contribution
+Guidelines for contributing to this project, including coding standards, pull request processes, and issue reporting.
+
+## License
+[MIT License](LICENSE.md) - Feel free to use and modify this component for your projects.
+
+---
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.5.
 
 ## Development server
