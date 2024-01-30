@@ -1,0 +1,27 @@
+src/
+|-- app/
+    |-- inventory/
+        |-- components/
+            |   |-- inventory-list/
+            |       |-- inventory-list.component.ts
+            |       |-- inventory-list.component.html
+            |       |-- inventory-list.component.css
+            |-- inventory-details/
+                |-- inventory-details.component.ts
+                |-- inventory-details.component.html
+                |-- inventory-details.component.css
+            |-- add-inventory-item/
+                |-- add-inventory-item.component.ts
+                |-- add-inventory-item.component.html
+                |-- add-inventory-item.component.css
+        |-- models/
+            |-- inventory-item.model.ts
+        |-- services/
+            |-- inventory.service.ts
+        |-- inventory-routing.module.ts
+        |-- inventory.module.ts
+    |-- app-routing.module.ts
+    |-- app.module.ts
+    |-- app.component.ts
+    |-- app.component.html
+    |-- app.component.css

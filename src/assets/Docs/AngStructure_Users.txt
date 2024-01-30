@@ -1,0 +1,49 @@
+src/
+|-- app/
+    |-- users/
+        |-- components/
+            |-- user-list/
+                |-- user-list.component.ts
+                |-- user-list.component.html
+                |-- user-list.component.css
+            |-- user-details/
+                |-- user-details.component.ts
+                |-- user-details.component.html
+                |-- user-details.component.css
+            |-- user-edit/
+                |-- user-edit.component.ts
+                |-- user-edit.component.html
+                |-- user-edit.component.css
+        |-- models/
+            |-- user.model.ts
+        |-- services/
+            |-- user.service.ts
+        |-- users-routing.module.ts
+        |-- users.module.ts
+    |-- security/
+        |-- components/
+            |-- login/
+                |-- login.component.ts
+                |-- login.component.html
+                |-- login.component.css
+            |-- register/
+                |-- register.component.ts
+                |-- register.component.html
+                |-- register.component.css
+        |-- services/
+            |-- auth.service.ts
+            |-- auth-guard.service.ts
+        |-- security-routing.module.ts
+        |-- security.module.ts
+    |-- shared/
+        |-- components/
+            |-- navbar/
+                |-- navbar.component.ts
+                |-- navbar.component.html
+                |-- navbar.component.css
+        |-- guards/
+            |-- can-activate.guard.ts
+    |-- inventory/ (existing module)
+    |-- app-routing.module.ts
+    |-- app.module.ts
+    |-- app.component.* (existing files)
